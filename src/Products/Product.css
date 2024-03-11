@@ -1,0 +1,18 @@
+.card-container {
+  margin-left: 20rem;
+  margin-top: 2rem;
+  z-index: -2;
+}
+.card {
+  border: 2px solid #ededed;
+  margin: 20px;
+  padding: 20px;
+  cursor: pointer;
+}
+.card-img {
+  width: 14rem;
+  margin-bottom: 1rem;
+}
+.card-title {
+  margin-bottom: 1rem;
+}
